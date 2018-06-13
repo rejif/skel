@@ -1,3 +1,8 @@
+#Jetbrain
+*.iml
+**/.idea/*
+!**/.idea/runConfigurations
+
 # C++ objects and libs
 *.slo
 *.lo
